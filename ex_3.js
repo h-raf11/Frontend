@@ -10,7 +10,7 @@ function ajouterInscription(liste, newInscription) {
 }
 
 
-const inscription = { id: 14, nom: 'Mouad', filiere: 'DEV' };
+const inscription = { id: 14, nom: 'Achraf', filiere: 'DEV' };
 
 const newInscriptions = ajouterInscription(inscriptions, inscription);
 
