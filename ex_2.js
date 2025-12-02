@@ -9,5 +9,4 @@ const nomAges = personnes
   .filter(personne => personne.estMembre === true)
   .map(personne => personne.nom);
 
-  
 console.log(nomAges);
